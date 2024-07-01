@@ -4,7 +4,7 @@ Este repositório contém um script de backup para sistemas Linux que realiza o 
 
 ### Script de Backup
 
-O script `backup_opt.sh` realiza o backup do diretório `/opt` para o diretório `/backup/opt` diariamente às 02:00.
+O script `backup_opt.sh` realiza o backup do diretório `/opt` para o diretório `/backup/opt` diariamente às 02:00 AM.
 
 ### Conteúdo do Script
 
