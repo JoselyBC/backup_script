@@ -54,9 +54,8 @@ sudo timedatectl set-time 'YYYY-MM-DD HH:MM:SS'
 ### Exemplo
 sudo timedatectl set-time '2024-06-28 14:30:00'
 
-### Verifique as configurações
+###  Verifique as configurações
 timedatectl
-
 
 
 
